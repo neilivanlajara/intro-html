@@ -289,7 +289,7 @@ input, select, textarea {
   
   .playerWin {
 	color: rgb(218, 37, 37);
-	background-image: url("assets/images/vinto.jpg");
+	background-image: url(assets/images/vinto.jpg);
 background-repeat: no-repeat;
 width: 200px;
 height: 200px;
@@ -301,7 +301,7 @@ animation-duration: 4s;
   
   .computerWin {
 	color: rgb(218, 37, 37);
-	background-image: url("assets/images/vinto.jpg");
+	background-image: url(assets/images/vinto.jpg);
 background-repeat: no-repeat;
 width: 200px;
 height: 200px;
@@ -329,7 +329,7 @@ animation-duration: 4s;
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-	background: #348cb2 url("assets/images/bg.jpg") bottom left;
+	background: #348cb2 url(assets/images/bg.jpg) bottom left;
 	background-position:top;
 	background-repeat: repeat-x;
 		height: 100%;
