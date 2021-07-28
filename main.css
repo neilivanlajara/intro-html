@@ -290,7 +290,7 @@ input, select, textarea {
   
   .playerWin {
 	color: rgb(218, 37, 37);
-	background-image: url("assets/css/images/vinto.jpg");
+	background-image: url("vinto.jpg");
 background-repeat: no-repeat;
 width: 200px;
 height: 200px;
@@ -302,7 +302,7 @@ animation-duration: 4s;
   
   .computerWin {
 	color: rgb(218, 37, 37);
-	background-image: url("assets/images/vinto.jpg");
+	background-image: url("perso.jpg");
 background-repeat: no-repeat;
 width: 200px;
 height: 200px;
