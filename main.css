@@ -330,7 +330,7 @@ animation-duration: 4s;
 	transform: translate3d(0,0,0);
 /* Set your background with this */
 
-	background: #348cb2 url("bg.jpg") ;
+	background: #348cb2 url("bg1.jpg") ;
 	background-repeat: repeat-x;
 	height: 100%;
 	left: 0;
